@@ -1,73 +1,73 @@
 PROGRAMMING PRINCIPLES : 30 days
 
 Topics
- (1).TERMINOLOGIES
-	Computer Program
-	Programming
-	Programming Language
-	Source Code(Program)
-	Object Code
-	Syntax
-	Semantics
+(1) TERMINOLOGIES
+	- Computer Program
+	- Programming
+	- Programming Language
+	- Source Code(Program)
+	- Object Code
+	- Syntax
+	- Semantics
 
- (2).LANGUAGE TRANSLATORS 
-	(i)Assembler.
-	(ii)Interpreter.
-	(iii)Compiler.
-
+(2) LANGUAGE TRANSLATORS 
+	- Assembler.
+	- Interpreter.
+	- Compiler.
+	
 	+ Linker, Loader
 
- (3).LEVELS OF PROGRAMMING LANGUAGES
-	1)Low-level languages.
-	2)High-level languages.
+(3) LEVELS OF PROGRAMMING LANGUAGES
+	- Low-level languages.
+	- High-level languages.
 
 	+ programming language Generations
 		1st - 5th Gen
 
- (4).PROGRAM DEVELOPMENT CYCLE
-	Problem Recognition 
-	Problem Definition
-	Program Design
-	Program Coding
-	Program Testing and Debugging
-	Program Implementation and Maintenance
-	Program Documentation
+(4) PROGRAM DEVELOPMENT CYCLE
+	- Problem Recognition 
+	- Problem Definition
+	- Program Design
+	- Program Coding
+	- Program Testing and Debugging
+	- Program Implementation and Maintenance
+	- Program Documentation
 
- (5).DEVELOPING OF ALGORITHMS
+(5) DEVELOPING OF ALGORITHMS
 	algorithm
 	Qualities of a good Algorithm
 	Program Design Tools
-		1.Pseudocodes.
-		2.Flowcharts.
+		- Pseudocodes.
+		- Flowcharts.
 
- (6).PROGRAM CONTROL STRUCTURES
+(6) PROGRAM CONTROL STRUCTURES
 	Control structures
 	Types of Control structures 
 		Sequence 
-			statement1 -> statement2
+			- statement1 -> statement2
 		Selection (Decision)
-			if then 
-			if else then 
-			if elseif else 
-			Case of 
-			nested if
+			- if then 
+			- if ... else then 
+			- if ... elseif ... else 
+			- Case of (switch case)
+			- nested if
 
 		Iteration (Looping/Repetition)
-			for
-			while
-			do while / repeat ... until
-			nested loops
+			- for
+			- while
+			- do while (repeat ... until) 
+			- nested loops
 
- (7).Others
+(7) Others
 	Operating system basics
 	number systems
-		Binary
-		Octal
-		Decimal
-		Hexadecimal 
+		- Binary
+		- Octal
+		- Decimal
+		- Hexadecimal 
 
- SELECTING YOUR FIRST PROGRAMMING LANGUAGE
-	~ things to consider: 
-	~ recommended: c, c#, java, python, javascript ...
+(8) SELECTING YOUR FIRST PROGRAMMING LANGUAGE
+	- things to consider: 
+	- recommended: c, c#, java, python, javascript etc.
 
 

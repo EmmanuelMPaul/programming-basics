@@ -1,23 +1,20 @@
 
-Day 2 (continuation)
-
-Definition of Terms used in Computer Programming 
-
-Source Code(Program)
+Day 3 (terms continuation)
+(d) Source Code(Program)
     - These are the program statements that the programmer enters in the program editor window, and which have not yet been translated into machine-readable form.
-
     - Source code is the code understood by the programmer
 
-Object Code
+(e) Object Code
     - Object code is the program code that is in machine-readable (binary) form
 
-Syntax
+(f) Syntax
     - Syntax are the grammatical rules, which govern how words, symbols, expressions and statements may be formed and combined. 
-
     - Rules that govern the arrangement of commands in a particular language.
 
-Semantics
+(g) Semantics
     - Semantics are the rules, which govern the meaning of syntax. They dictate what happens (takes place) when a program is run or executed.
+    - The meaning attached to every command in a particular language
 
-    -The meaning attached to every command in a particular language
+~ Joke of the day 
+    Programming is like sex. One mistake and you have to support it for the rest of your life
 

@@ -8,9 +8,13 @@ Definition of Terms used in Computer Programming
 
 (b)Programming
     - Process of designing a set of computer instructions,  which can be used to perform a particular task(or, solve a specific problem).
-    -The process of writing, creating or developing logical and systematic computer programs.
+    - The process of writing, creating or developing logical and systematic computer programs.
 
 (c)Programming Language:
     - This is a set of instructions, which a computer programmer uses to solve a given problem using a computer.
     examples: javascript, c, c++. c# , python, java, rust etc
+
+~ Joke of the day 
+    It's not a bug , it's an undocumented feature.
+
 

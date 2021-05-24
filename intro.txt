@@ -1,0 +1,72 @@
+
+PROGRAMMING PRINCIPLES : 30 days
+
+Topics
+INTRO
+	Computer Program
+	Programming
+	Programming Language
+	Source Code(Program)
+	Object Code
+	Syntax
+	Semantics
+
+LANGUAGE TRANSLATORS 
+(i)Assembler.
+(ii)Interpreter.
+(iii)Compiler.
+
++ Linker, Loader
+
+LEVELS OF PROGRAMMING LANGUAGES
+	1)Low-level languages.
+	2)High-level languages.
+
+	+ programming language Generations
+		-> 1st - 5th Gen
+
+PROGRAM DEVELOPMENTCYCLE
+	Problem Recognition 
+	Problem Definition
+	Program Design
+	Program Coding
+	Program Testing and Debugging
+	Program Implementation and Maintenance
+	Program Documentation
+
+DEVELOPING OF ALGORITHMS
+	algorithm
+	Qualities of a good Algorithm
+	Program Design Tools
+		1.Pseudocodes.
+		2.Flowcharts.
+
+PROGRAM CONTROL STRUCTURES
+	Control structures
+	Types of Control structures 
+		Sequence 
+
+		Selection (Decision)
+			if then / one option
+			if else then / two options
+			if elseif else /more than two 
+			Case of / switch case
+			nested if
+
+		teration (Looping/Repetition)
+			for
+			while
+			do while / repeat ... until
+			nested loops
+
+SELECTING YOUR FIRST LANGUAGE
+	~ things to consider: 
+	~ recommended: c, java, python, javascript
+
+THANKS 
+
+
+
+
+
+
