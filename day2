@@ -1,7 +1,7 @@
 
 Day 2
 
-Definition of Terms used in Computer Programming
+Terms used in Computer Programming
 (a)Computer Program:
     - An organized set of instructions when executed, causes the computer to carry out a defined task, or to behave in a predetermined manner.
     - A set of coded instructions given to the computer, and represents a logical solution to a problem.
@@ -12,9 +12,4 @@ Definition of Terms used in Computer Programming
 
 (c)Programming Language:
     - This is a set of instructions, which a computer programmer uses to solve a given problem using a computer.
-    examples: javascript, c, c++. c# , python, java, rust etc
-
-~ Joke of the day 
-    It's not a bug , it's an undocumented feature.
-
-
+    . examples: javascript, c, java , python etc
