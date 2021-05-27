@@ -16,9 +16,7 @@ print(colorama.Style.BRIGHT, end="")
 
 today = date.today()
 d1 = today.strftime("%d")
-speaker = 0
-if int(d1)/2 == 0:
-    speaker = 1
+speaker = 1
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
@@ -50,7 +48,7 @@ def write_to_screen(mytext):
         filltext(mytext)
     elif len(mytext.strip()) != 0 and mytext.lstrip()[0] == '~':
         print(colorama.Fore.BLUE, end=" ")
-        filltext(mytext)
+        filltext(mytext.replace('~', ''))
     elif len(mytext.strip()) != 0 and mytext.lstrip()[0] == '.':
         print(colorama.Fore.CYAN,  end="")
         filltext(mytext)

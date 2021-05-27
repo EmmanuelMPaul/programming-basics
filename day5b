@@ -1,0 +1,8 @@
+
+Day 5 (part two)
+(3) INTERPRETER (Language Translators continuation)
+- An Interpreter translates a source program written in high level language word by word or line by line.  This allows the CPU to execute one line or statement at a time.
+
+- The Interpreter takes one line of the source program, translates it into a Machine instruction, and then it is immediately obeyed and executed by the CPU before the next instruction can be translated.
+
+~ Note. The translated line is not stored in the computer memory.  Therefore, every time the program is needed for execution, it has to be translated.

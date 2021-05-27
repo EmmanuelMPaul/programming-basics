@@ -1,0 +1,14 @@
+
+Day 4 (part one)
+LANGUAGE TRANSLATORS
+- Any program code written in either assembly or high-level language must first be translated into machine language, before the computer can recognize and run these programs.
+
+- A Language Translator is a special software used to convert program statements written in Assembly languages or High-level languages into Machine code.
+
+There are three types of language Translators:
+	. Assembler 
+	. Interpreter 
+	. Compiler
+
+Note. Interpreters and Compilers translate source programs written in High-level languages to their Machine language equivalents
+

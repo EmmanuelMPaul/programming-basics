@@ -1,0 +1,16 @@
+
+Day 4 (part two)
+(2) ASSEMBLER (Language Translators continuation)
+- An Assembler translates programs written in Assembly language into Machine language (0's and 1's) that the computer can understand and execute.
+
+Functions of an Assembler
+- Checks whether the instructions written are valid.
+
+- Identifies any errors in the program before translating, e.g. typing mistakes, using the wrong format for an instruction, etc
+
+- Assigns memory locations to the names the programmer uses.
+
+- If no errors are detected, it generates the Machine code equivalent of the Assembly instructions.
+
+- Combines the Machine code generated with the appropriate subroutines.
+

@@ -1,0 +1,23 @@
+
+Day 5 (part one)
+(1) COMPILER (Language Translators continuation)
+- A Compiler translates the whole source program into object code at once, and then executes it in Machine language code. 
+
+- The process of translating a program written in a High-level source language into Machine language using a compiler is called Compilation.
+
+Functions of a Compiler.
+- Identifies the proper order of processing.
+
+- Allocates space in memory for the storage locations defined in the program.
+
+- Reads each line of the source program and converts it into Machine language.
+
+- Checks for syntax errors in a program (i.e. statements which do not conform to the grammatical rules of the language).
+
+- If there are no errors, it generates a listing of the machine code equivalent to the given program.
+
+- Combines the Machine code generated with the appropriate subroutines.
+
+
+
+
