@@ -59,7 +59,6 @@ Lines = file1.readlines()
 for line in Lines:
     Thread(target=write_to_screen(line)).start()
     Thread(target=play_sound(line.strip())).start()
-    sleep(1./120)
 file1.close()
 
 later = time.time()

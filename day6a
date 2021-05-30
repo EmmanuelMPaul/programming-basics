@@ -1,0 +1,17 @@
+
+Day 6 (part one)
+
+Differences between a Compiler and an Interpreter
+(1)
+ - Interpreter translates and executes each statement of the source code one at a time.
+ - Compiler translates all the source code statements at once as a unit into their corresponding object codes, before the computer can execute them.
+
+(2)
+ - Interpreter translates the program each time it is needed for execution; hence, it is slower than compiling.
+ -Compiler compiled object codes can be saved on a storage media and run when required; hence they execute faster than interpreted programs
+
+(3)
+	- Compiler displays all errors after compilation, on the other hand, the Interpreter displays errors of each line one by one.
+
+~ compiled languages are C, C++, Erlang, Haskell, Rust.
+~ interpreted languages are PHP, Ruby, Python.

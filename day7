@@ -1,0 +1,15 @@
+
+Day 7 
+INTRODUCTION TO LEVELS OF PROGRAMMING LANGUAGES 
+
+Programming languages are classified into two major categories: 
+    - Low-level languages and  High-level languages.
+Each programming language has its own grammatical (syntax) rules, which must be observed in order to write valid programs.
+
+(1) LOW-LEVEL LANGUAGES
+ - These are the basic programming languages, which can easily be understood by the computer directly, or which require little effort to be translated into computer understandable form.
+
+(2) HIGH-LEVEL LANGUAGES
+- The grammar of high-level languages is very close to the vocabulary of the natural languages used by human beings.  Hence; they can be read and understood easily even by people who are not experts in programming
+
+~ Programs written in a high-level language cannot be obeyed by the computer hardware directly. 
