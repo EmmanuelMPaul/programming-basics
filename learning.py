@@ -14,14 +14,10 @@ now = time.time()
 colorama.init()
 print(colorama.Style.BRIGHT, end="")
 
-today = date.today()
-d1 = today.strftime("%d")
-speaker = 1
-
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
 engine.setProperty('volume', 1.0)
-engine.setProperty('voice', voices[speaker].id)
+engine.setProperty('voice', voices[int(sys.argv[2])].id)
 
 def sprint(str):
     for c in str:
@@ -57,11 +53,13 @@ def write_to_screen(mytext):
 
     print(colorama.Fore.WHITE, "")  
 
+
 file1 = open(str(sys.argv[1]), 'r')
 Lines = file1.readlines()
 for line in Lines:
     Thread(target=write_to_screen(line)).start()
     Thread(target=play_sound(line.strip())).start()
+    sleep(1./120)
 file1.close()
 
 later = time.time()

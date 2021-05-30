@@ -1,0 +1,83 @@
+
+PROGRAMMING PRINCIPLES : 30 days
+
+Topics
+- INTRO (terminologies)
+	. Computer Program
+	. Programming
+	. Programming Language
+	. Source Code(Program)
+	. Object Code
+	. Syntax
+	. Semantics
+
+- LANGUAGE TRANSLATORS 
+	(1)Assembler.
+	(2)Interpreter.
+	(3)Compiler.
+
+	+ Linker, Loader
+
+- LEVELS OF PROGRAMMING LANGUAGES
+	(1)Low-level languages.
+	(2)High-level languages.
+
+	+ programming language Generations
+		~ 1st - 5th Gen
+
+- PROGRAM DEVELOPMENT CYCLE
+	. Problem Recognition 
+	. Problem Definition
+	. Program Design
+	. Program Coding
+	. Program Testing and Debugging
+ 	. Program Implementation and Maintenance
+	. Program Documentation
+
+- DEVELOPING OF ALGORITHMS
+	. algorithm terminologies
+	. Qualities of a good Algorithm
+	. Program Design Tools
+		 Pseudocodes and Flowcharts.
+
+- PROGRAM CONTROL STRUCTURES
+	Control structures
+	Types of Control structures 
+	 sequential 
+		statement 1, statement 2 etc.
+	 Selection (Decision)
+		. if then ( one option ) 
+		. if else then ( two options ) 
+		. if elseif else (more than two )
+		. Case of (switch case) 
+		. nested if blocks
+
+	 iteration (Looping/Repetition)
+		. for loop
+		. while loop
+		. do while / repeat ... until loop
+		. nested loops
+
+- ADDITIONAL TOPICS 
+	- Operating system basics 
+		windows or linux
+	- Number systems 
+		binary , octal ,
+		decimal and hexadecimal
+
+- SELECTING YOUR FIRST LANGUAGE
+	~ things to consider:
+		age 
+		computer skills and math
+		programming experience 
+			. absolute beginner
+			. second language
+	~ recommended: c, java, c#, python, 
+		         ~ javascript, c++
+	
+(THANKS FOR WATCHING)
+	dm for resources and free One-on-one Mentoring
+	I will be available in the next 30 days (03PM to 11PM Eastern Standard Time)
+
+ 
+	
