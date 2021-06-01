@@ -1,0 +1,13 @@
+
+ Day 8 (part two continuation)
+
+(a) Machine language (1st Generation languages)
+ -In Machine language, the instructions are written using binary digits (machine codes) that consist of 0's and 1's.
+ ~Machine code instructions can readily be understood by the computer without any translation.
+
+ ~ Different CPU's have different machine codes, e.g. codes written for an Intel Pentium processor may differ from those written for a Motorola or Cyrix processor
+
+(b) Assembly languages (2nd Generation languages) 
+ - In Assembly language, the instructions are written using a set of predefined symbols called Mnemonic codes (symbolic representations of the machine language instructions). 
+ e.g. ADD - addition, SUB - subtraction etc.
+ ~ Assembly language programs cannot be understood and executed by the computer hardware directly.  An Assembler is used to convert them into Machine language.

@@ -1,0 +1,21 @@
+
+Day 8
+
+LOW-LEVEL LANGUAGES
+- These are the basic programming languages, which can easily be understood by the computer directly, or which require little effort to be translated into computer understandable form.
+
+(1) Types of Low-level languages.
+ - Machine language.
+ - Assembly languages.
+
+(2) Features of Low-level languages.
+ - They are machine hardware-oriented (i.e. they are machine based).
+ - They are not portable.
+
+(3) Advantages of Low-level languages
+ - They can be easily understood by the CPU without or with little translation
+ - The program instructions can be executed by the processor much faster
+
+(4) Disadvantages of Low-level languages
+ - They are difficult to learn, understand, and write 
+ - They are machine-dependent, hence non-portable 
