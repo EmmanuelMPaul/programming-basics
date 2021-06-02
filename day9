@@ -1,0 +1,13 @@
+
+day 9
+
+HIGH-LEVEL PROGRAMMING LANGUAGES
+- The grammar of high-level languages is very close to the vocabulary of the natural languages used by human beings.  Hence; they can be read and understood easily even by people who are not experts in programming. 
+
+~> Programs written in a high-level language cannot be obeyed by the computer hardware directly.  Therefore, the source codes must be translated into their corresponding machine language equivalent using a Compiler or an Interpreter.
+
+Purpose of High-level languages
+- To improve the productivity of a programmer.  This is because; the source programs of high-level languages are shorter than those of low-level languages, since one statement translates into several machine code instructions.
+
+- To ease the training of new programmers, since there is no need to learn the detailed layout of a sequence.
+

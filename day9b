@@ -1,0 +1,18 @@
+
+Day 9 (part two,  high-level languages )
+
+Advantages of High-level languages.
+- Programs are easily portable between computers of different makes
+
+- Programs are easy to modify, and also to incorporate additional features thus enhancing its functional capabilities.
+- They enable programmers to adapt easily to new hardware.  This is because; the programmer doesn’t need to worry about the hardware design of the computer.
+
+- They are easy to debug (remove errors), and maintain.
+
+Disadvantages of High-level languages
+- They are not machine-oriented; hence, do not use of the CPU and hardware facilities efficiently
+
+- Need to be interpreted or compiled to machine-readable form before the computer can execute them.
+
+Commonly used high-level languages are: 
+ ~ Python, javascript, java, C++, C# etc.
